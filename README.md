@@ -19,8 +19,6 @@ O Valorant Champions é o ponto culminante do Valorant Champions Tour (VCT), oco
 
 Na edição de 2022, a equipe brasileira LOUD conquistou o título mundial, destacando-se com um desempenho dominante. O quinteto composto por Sacy, Saadhak, Less, aspas e pancada levou a LOUD ao topo do mundo!
 
-![LOUD](../assets/img/time-da-loud-finalista-do-valorant-champions-2022-composto-por-sacy-aspas-bzka-coach-saadhak-less-e-pancada_1_164228.webp)
-
 ## Skins
 
 As skins do Valorant Champions são inspiradas no Valorant Champions Tour (VCT) e oferecem características únicas, incluindo alterações personalizadas no modelo, áudio de disparo personalizado e efeitos especiais. A coleção Champions 2022 superou as expectativas, trazendo duas adições à Aura de Campeão.
